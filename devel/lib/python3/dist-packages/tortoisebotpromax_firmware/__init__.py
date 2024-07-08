@@ -1,0 +1,1 @@
+/home/user/robocon_ros_workspace/devel/.private/tortoisebotpromax_firmware/lib/python3/dist-packages/tortoisebotpromax_firmware/__init__.py

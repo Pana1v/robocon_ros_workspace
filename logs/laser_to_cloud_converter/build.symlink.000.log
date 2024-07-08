@@ -1,0 +1,4 @@
+Symlinking /home/user/robocon_ros_workspace/devel/lib/pkgconfig/laser_to_cloud_converter.pc
+Symlinking /home/user/robocon_ros_workspace/devel/lib/laser_to_cloud_converter/laser_to_cloud_converter_node
+Symlinking /home/user/robocon_ros_workspace/devel/share/laser_to_cloud_converter/cmake/laser_to_cloud_converterConfig-version.cmake
+Symlinking /home/user/robocon_ros_workspace/devel/share/laser_to_cloud_converter/cmake/laser_to_cloud_converterConfig.cmake

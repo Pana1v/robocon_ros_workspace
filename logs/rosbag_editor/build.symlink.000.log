@@ -1,0 +1,4 @@
+Symlinking /home/user/robocon_ros_workspace/devel/lib/rosbag_editor/rosbag_editor
+Symlinking /home/user/robocon_ros_workspace/devel/lib/pkgconfig/rosbag_editor.pc
+Symlinking /home/user/robocon_ros_workspace/devel/share/rosbag_editor/cmake/rosbag_editorConfig-version.cmake
+Symlinking /home/user/robocon_ros_workspace/devel/share/rosbag_editor/cmake/rosbag_editorConfig.cmake

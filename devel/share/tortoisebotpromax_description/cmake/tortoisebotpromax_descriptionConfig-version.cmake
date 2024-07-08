@@ -1,0 +1,1 @@
+/home/user/robocon_ros_workspace/devel/.private/tortoisebotpromax_description/share/tortoisebotpromax_description/cmake/tortoisebotpromax_descriptionConfig-version.cmake

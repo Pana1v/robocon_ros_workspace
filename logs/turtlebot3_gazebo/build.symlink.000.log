@@ -1,0 +1,4 @@
+Symlinking /home/user/robocon_ros_workspace/devel/lib/turtlebot3_gazebo/turtlebot3_drive
+Symlinking /home/user/robocon_ros_workspace/devel/lib/pkgconfig/turtlebot3_gazebo.pc
+Symlinking /home/user/robocon_ros_workspace/devel/share/turtlebot3_gazebo/cmake/turtlebot3_gazeboConfig.cmake
+Symlinking /home/user/robocon_ros_workspace/devel/share/turtlebot3_gazebo/cmake/turtlebot3_gazeboConfig-version.cmake

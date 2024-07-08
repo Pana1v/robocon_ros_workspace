@@ -1,0 +1,8 @@
+prefix=/home/user/robocon_ros_workspace/install
+
+Name: odomx
+Description: Description of odomx
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

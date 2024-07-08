@@ -1,0 +1,4 @@
+Symlinking /home/user/robocon_ros_workspace/devel/lib/pkgconfig/warehouse_simulation.pc
+Symlinking /home/user/robocon_ros_workspace/devel/lib/warehouse_simulation/key_control
+Symlinking /home/user/robocon_ros_workspace/devel/share/warehouse_simulation/cmake/warehouse_simulationConfig.cmake
+Symlinking /home/user/robocon_ros_workspace/devel/share/warehouse_simulation/cmake/warehouse_simulationConfig-version.cmake

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/user/ws/src/build/devel/setup.sh

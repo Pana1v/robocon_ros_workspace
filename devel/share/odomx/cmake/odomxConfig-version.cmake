@@ -1,0 +1,1 @@
+/home/user/robocon_ros_workspace/devel/.private/odomx/share/odomx/cmake/odomxConfig-version.cmake

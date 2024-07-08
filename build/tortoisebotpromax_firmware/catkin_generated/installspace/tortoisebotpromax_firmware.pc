@@ -1,0 +1,8 @@
+prefix=/home/user/robocon_ros_workspace/install
+
+Name: tortoisebotpromax_firmware
+Description: Description of tortoisebotpromax_firmware
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

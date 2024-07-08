@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target laser_to_cloud_converter_node[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/laser_to_cloud_converter_node.dir/src/main.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/user/robocon_ros_workspace/devel/.private/laser_to_cloud_converter/lib/laser_to_cloud_converter/laser_to_cloud_converter_node[0m
+[100%] Built target laser_to_cloud_converter_node

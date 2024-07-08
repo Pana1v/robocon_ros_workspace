@@ -1,0 +1,1 @@
+/home/user/robocon_ros_workspace/devel/.private/turtlebot3_msgs/share/roseus/ros/turtlebot3_msgs/manifest.l

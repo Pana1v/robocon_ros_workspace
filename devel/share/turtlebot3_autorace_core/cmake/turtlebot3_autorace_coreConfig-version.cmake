@@ -1,0 +1,1 @@
+/home/user/robocon_ros_workspace/devel/.private/turtlebot3_autorace_core/share/turtlebot3_autorace_core/cmake/turtlebot3_autorace_coreConfig-version.cmake

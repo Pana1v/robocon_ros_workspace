@@ -1,0 +1,7 @@
+Symlinking /home/user/robocon_ros_workspace/devel/lib/pkgconfig/tortoisebotpromax_firmware.pc
+Symlinking /home/user/robocon_ros_workspace/devel/lib/python3/dist-packages/tortoisebotpromax_firmware/__init__.py
+Symlinking /home/user/robocon_ros_workspace/devel/share/tortoisebotpromax_firmware/cmake/tortoisebotpromax_firmwareConfig.cmake
+Symlinking /home/user/robocon_ros_workspace/devel/share/tortoisebotpromax_firmware/cmake/tortoisebotpromax_firmware-msg-extras.cmake
+Symlinking /home/user/robocon_ros_workspace/devel/share/tortoisebotpromax_firmware/cmake/tortoisebotpromax_firmware-msg-paths.cmake
+Symlinking /home/user/robocon_ros_workspace/devel/share/tortoisebotpromax_firmware/cmake/tortoisebotpromax_firmwareConfig-version.cmake
+Symlinking /home/user/robocon_ros_workspace/devel/share/roseus/ros/tortoisebotpromax_firmware/manifest.l

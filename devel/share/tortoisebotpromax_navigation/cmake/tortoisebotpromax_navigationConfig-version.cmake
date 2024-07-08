@@ -1,0 +1,1 @@
+/home/user/robocon_ros_workspace/devel/.private/tortoisebotpromax_navigation/share/tortoisebotpromax_navigation/cmake/tortoisebotpromax_navigationConfig-version.cmake

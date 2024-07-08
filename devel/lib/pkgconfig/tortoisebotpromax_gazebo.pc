@@ -1,0 +1,1 @@
+/home/user/robocon_ros_workspace/devel/.private/tortoisebotpromax_gazebo/lib/pkgconfig/tortoisebotpromax_gazebo.pc

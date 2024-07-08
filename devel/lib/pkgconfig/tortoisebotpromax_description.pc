@@ -1,0 +1,1 @@
+/home/user/robocon_ros_workspace/devel/.private/tortoisebotpromax_description/lib/pkgconfig/tortoisebotpromax_description.pc

@@ -1,0 +1,1 @@
+/home/user/robocon_ros_workspace/devel/.private/warehouse_simulation/lib/pkgconfig/warehouse_simulation.pc

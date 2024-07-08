@@ -1,0 +1,1 @@
+/home/user/robocon_ros_workspace/devel/.private/turtlebot3_autorace_msgs/share/turtlebot3_autorace_msgs/cmake/turtlebot3_autorace_msgsConfig.cmake

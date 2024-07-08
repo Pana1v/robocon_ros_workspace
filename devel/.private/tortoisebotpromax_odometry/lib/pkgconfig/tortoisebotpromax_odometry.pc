@@ -1,0 +1,8 @@
+prefix=/home/user/robocon_ros_workspace/devel/.private/tortoisebotpromax_odometry
+
+Name: tortoisebotpromax_odometry
+Description: Description of tortoisebotpromax_odometry
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs nav_msgs rospy tf2_ros

@@ -1,0 +1,1 @@
+/home/user/robocon_ros_workspace/devel/.private/rosbag_editor/share/rosbag_editor/cmake/rosbag_editorConfig-version.cmake

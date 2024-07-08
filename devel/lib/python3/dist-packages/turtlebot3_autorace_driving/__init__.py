@@ -1,0 +1,1 @@
+/home/user/robocon_ros_workspace/devel/.private/turtlebot3_autorace_driving/lib/python3/dist-packages/turtlebot3_autorace_driving/__init__.py

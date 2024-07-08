@@ -1,0 +1,1 @@
+/home/user/robocon_ros_workspace/devel/.private/turtlebot3_autorace_detect/share/turtlebot3_autorace_detect/cmake/turtlebot3_autorace_detectConfig.cmake
